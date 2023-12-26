@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickAutomaticCalculation", "ClickAutomaticCalculation\ClickAutomaticCalculation.csproj", "{0DCAADAC-983A-485A-94AC-9D58C69FC84A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DCAADAC-983A-485A-94AC-9D58C69FC84A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCAADAC-983A-485A-94AC-9D58C69FC84A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCAADAC-983A-485A-94AC-9D58C69FC84A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCAADAC-983A-485A-94AC-9D58C69FC84A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {791E7BB6-1FFA-420C-BC47-58D3CBA1C04F}
+	EndGlobalSection
+EndGlobal
