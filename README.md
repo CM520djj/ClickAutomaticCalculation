@@ -1,1 +1,1 @@
-# ClickAutomaticCalculation
+点选数字选择框，合计总数，适用于订餐等
